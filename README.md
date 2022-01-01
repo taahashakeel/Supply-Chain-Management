@@ -20,7 +20,7 @@ OrderSummary.txt will also be created in the directory that was used to run the 
 
 The DBURL, USER, and PASS variables in input.java can be modified to access a different database than the default.
 
-All unit tests are provided in edu/ucalgary/ensf409/UnitTests, and can be ran using the files located in the lib folder after being moved to the ensf409 folder. (They are in a seperate folder to allow *.java, simplifying compilation)
+All unit tests are provided in edu/ucalgary/ensf409/UnitTests, and can be ran using the files located in the lib folder after being moved to the ensf409 folder. (They are in a separate folder to allow *.java, simplifying compilation)
 ## Purpose 
 The Purpose of this project was to design an application to calculate the cheapest combination of available inventory items that can be used to fill a specific order. 
 If the needed components are available, an order form is generated, and the furniture items is removed from inventory. The program takes in user input for furniture category, its type, and the number of items requested. Then cheapest option of furniture is calculated. 
@@ -44,8 +44,11 @@ Figure 2- Textfile generated with order details
  ![](images/CannotFulfillOrder.png)
 <p align="center">
 <alt="Material Bread logo">
- Figure 3- Unsucessful order
+ Figure 3- Unsuccessful order
 </p>
  
  
-## Challenges and Solution
+## Learned 
+Learned to write unit tests using JUnit to ensure that the program would preform as expected 
+Gained exposure and confidence using MySQL database 
+
