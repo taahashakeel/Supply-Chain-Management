@@ -22,6 +22,10 @@ The DBURL, USER, and PASS variables in input.java can be modified to access a di
 
 All unit tests are provided in edu/ucalgary/ensf409/UnitTests, and can be ran using the files located in the lib folder after being moved to the ensf409 folder. (They are in a seperate folder to allow *.java, simplifying compilation)
 ## Purpose 
+The Purpose of this project was to design an application to calculate the cheapest combination of available inventory items that can be used to fill a specific order. 
+If the needed components are available, an order form is generated, and the furniture items is removed from inventory. The program takes in user input for furniture category, its type, and the number of items requested. Then cheapest option of furniture is calculated. 
+When an order form is produced, the database gets updated to specify that the selected items are no longer available in inventory. 
+If a request cannot be filled, the names of suggested manufacturers should be included in the output message 
 
 
 ## Images of the Project
