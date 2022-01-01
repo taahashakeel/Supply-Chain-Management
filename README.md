@@ -1,6 +1,7 @@
-# Supply-Chain-Management
+# Supply Chain Management
 
 Programming Language: Java
+
 Database: MySQL
 ## Installation
 
