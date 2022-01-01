@@ -46,4 +46,6 @@ Figure 2- Bar Chart representing data of August for each year
 <alt="Material Bread logo">
  Figure 3-Scatter point plot representing data of August for each year
 </p>
+ 
+ 
 ## Challenges and Solution
