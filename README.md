@@ -50,5 +50,6 @@ Figure 2- Textfile generated with order details
  
 ## Learned 
 Learned to write unit tests using JUnit to ensure that the program would preform as expected 
-Gained exposure and confidence using MySQL database 
+
+ Gained exposure and confidence using MySQL database 
 
