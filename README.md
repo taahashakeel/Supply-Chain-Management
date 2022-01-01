@@ -29,5 +29,21 @@ If a request cannot be filled, the names of suggested manufacturers should be in
 
 
 ## Images of the Project
+![](images/overview.png)
+<p align="center">
+<alt="Material Bread logo">
+ Figure 1- Simple Overview of the Project interface
+</p>
 
+ ![](images/BarChart.png)
+<p align="center">
+<alt="Material Bread logo">
+Figure 2- Bar Chart representing data of August for each year
+</p>
+
+ ![](images/ScatterPointPlot.png)
+<p align="center">
+<alt="Material Bread logo">
+ Figure 3-Scatter point plot representing data of August for each year
+</p>
 ## Challenges and Solution
